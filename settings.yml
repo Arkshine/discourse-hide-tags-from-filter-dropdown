@@ -1,0 +1,6 @@
+hide_tags:
+  type: list
+  list_type: tag
+  default: ""
+  description:
+    en: 'Tags to hide from the from the filter drop-down.'
