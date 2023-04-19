@@ -1,6 +1,6 @@
 {
-  "about_url": null,
-  "license_url": null,
+  "about_url": "https://github.com/Arkshine/discourse-hide-tags-from-filter-dropdown/README.md",
+  "license_url": "https://github.com/Arkshine/discourse-hide-tags-from-filter-dropdown/LICENSE.md",
   "assets": {
   },
   "name": "Hide tags from the filter drop-down",
